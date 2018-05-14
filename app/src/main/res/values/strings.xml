@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Blink Effect</string>
+    <string name="red_blink_flashing">Red Blink Flashing</string>
+    <string name="click_for_blinking">Click for blinking !</string>
+</resources>
