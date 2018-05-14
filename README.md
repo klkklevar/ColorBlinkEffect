@@ -1,4 +1,4 @@
-ColorBlinkEffect
+Just a simple ColorBlinkEffect app
 
 Version 1.0.0
 
