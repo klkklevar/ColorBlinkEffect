@@ -8,4 +8,4 @@ A sample readme for just a simple SOS color effect with start blink button
 
 License & copyright
 
-KlkKlevar
+Khalid Klevar
